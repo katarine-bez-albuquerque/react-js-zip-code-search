@@ -7,7 +7,7 @@
 
 ## Sobre o projeto
 
-Clique e acesse o projeto: [zip-code-search-react](https://)
+Clique e acesse o projeto: [zip-code-search-react](https://react-js-zip-code-search.vercel.app/)
 
 Trabalho realizado com o framework React Js, com uso de TypeScript, HTML5, CSS3, Flexbox e API ViaCEP. 
 
